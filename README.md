@@ -31,4 +31,4 @@ Enter a city name to get the current weather.
 Click on "Use My Location" to fetch weather based on GPS.
 
 
-Thank you!
+Thank you!!
